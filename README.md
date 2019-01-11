@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/jpark0752/Test/_apis/build/status/JParkSolver.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/jpark0752/Test/_build/latest?definitionId=1?branchName=master)
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
